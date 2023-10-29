@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import io.qameta.allure.Description;
 import pages.MainPage;
-
+//tests
 public class MainTest extends BaseTest {
 
     private static MainPage mainPage;
